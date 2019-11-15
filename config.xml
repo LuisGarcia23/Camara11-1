@@ -3,7 +3,7 @@
 <preference name="phonegap-version" value="cli-9.0.0" />
   <name>Camara 11-1</name>
   <description>
-      Esta es una App de PhoneGap Hola Mundo ft jquery
+      Esta es una App de PhoneGap para la Camara
   </description>
   <author email="Luis Eduardo Garcia Caltzoncin" href="http://cordova.io">
       Apache Cordova Team
